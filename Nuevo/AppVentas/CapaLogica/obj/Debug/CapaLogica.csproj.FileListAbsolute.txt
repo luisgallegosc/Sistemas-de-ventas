@@ -1,0 +1,18 @@
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaLogica\obj\Debug\CapaLogica.pdb

@@ -1,0 +1,51 @@
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Mantenimiento.frmEmpleado.resources
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmIniciarSesion.resources
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Mantenimiento.frmCliente.resources
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Mantenimiento.frmProducto.resources
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Seguridad.frmCambiarContrasena.resources
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Seguridad.frmCambiarEstado.resources
+C:\Users\LENOVO\Desktop\UNSAAC\VII-Semestre\Desarrollo de software I\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Procesos.frmVenta.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmIniciarSesion.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Mantenimiento.frmCliente.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Mantenimiento.frmEmpleado.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Mantenimiento.frmProducto.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Procesos.frmVenta.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Seguridad.frmCambiarContrasena.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Seguridad.frmCambiarEstado.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Procesos.frmCompras.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Mantenimiento.frmProvedor.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.frmBuscarProducto.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Procesos.frmAnularVenta.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.frmKardex.resources
+C:\Users\benito\OneDrive\Escritorio\UNSAAC\desarrollo de software\guiaFinaal\Nuevo\AppVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.frmVentadelDia.resources
